@@ -69,20 +69,16 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 - Video-based classification with high accuracy
 - TensorFlow, OpenCV, Python
 
-### 😀 Face Recognition System
-- AI-powered Face Detection & Recognition
-- OpenCV & Deep Learning implementation
+### 🩺 AI Skin Disease Prediction & Routine Recommendation System 
+- Build for live Skin Disease Detection , Routine Recommenndation and Traking the daily progress via image Anylsis
+- Built using Deep Learning + mobilenet + Machine Learning & Computer Vision  
+- Tensorflow ,Groq Api ,Flask, SQLlite, MangoDB , HTML,CSs , JavaScripts, Express js , Flask  
 
-### 🤖 AI Chatbot
-- NLP-based intelligent chatbot system
+### 🤖 AI Medical Chatbot 
+-  Gen AI medical chatbot using ollama and Hugging face embedding model 
+-  using PyPdfLoader for Document Loading / Document Ingestion  
 - Built using Python & Neural Networks
 
-### 📝 NLP Projects
-- Text preprocessing
-- Semantic analysis
-- NLP model implementation
-
----
 
 ## 📄 Resume
 
