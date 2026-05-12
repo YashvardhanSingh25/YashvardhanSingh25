@@ -34,19 +34,10 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashvardhanSingh25&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanSingh25&layout=compact&theme=tokyonight"/>
-
-</div>
 
 ---
 
-<!-- ## 🔥 GitHub Streak
+## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -54,7 +45,7 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 </div>
 
---- -->
+
 
 ## 🧠 Skills
 
@@ -124,4 +115,4 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 ### ✨ “Building Intelligent Systems with AI & Deep Learning” ✨
 
 </div>
-``` 😡
+
