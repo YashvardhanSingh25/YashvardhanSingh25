@@ -28,7 +28,7 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,html,css,javascript,typescript,react,nodejs,graphql,mysql,git,github,vscode" />
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,html,css,javascript,mysql,git,github,vscode" />
 
 </div>
 
@@ -36,15 +36,6 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 ## 📊 GitHub Stats
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=YashvardhanSingh25&show_icons=true&theme=tokyonight" />
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=YashvardhanSingh25&layout=compact&theme=tokyonight"/>
-
-</div>
-
----
 
 <!-- ## 🔥 GitHub Streak
 
