@@ -16,7 +16,7 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 ## 🚀 About Me
 
-- 🎓 AI & Data Science Student
+- 🎓 AI & Data Science Enthusis
 - 🤖 Passionate about Artificial Intelligence & Deep Learning
 - 🧠 Interested in Computer Vision, NLP & Neural Networks
 - 💻 Building Real-World AI Projects using Python & TensorFlow
@@ -46,7 +46,7 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 ---
 
-## 🔥 GitHub Streak
+<!-- ## 🔥 GitHub Streak
 
 <div align="center">
 
@@ -54,7 +54,7 @@ AI & Data Science Student passionate about Deep Learning, Computer Vision & NLP
 
 </div>
 
----
+--- -->
 
 ## 🧠 Skills
 
